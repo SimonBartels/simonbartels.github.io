@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Research Interests
+On the theoretical side, I am pursuing the question: how much data is necessary to obtain a decent (Gaussian process) model.
+Importantly, I want an answer for a dataset at hand and NOT for all datasets. Optimal stopping and probably-approximately-correct bounds are tools, I am interested to answer that question.
 
-You can use the [editor on GitHub](https://github.com/SimonBartels/simonbartels.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+On the practical side, I want to improve the protein-design workflow. With Bayesian optimization, I hope to reduce the number of expensive and time consuming wetlab experiments. Using results from preceding experiments, unlabelled data from related tasks and simulations, should allow to make informed choices about which protein modifications are worthwhile to explore.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Some Publications
 
-### Markdown
+**Kernel-Matrix Determinant Estimates from stopped Cholesky Decomposition** with [Wouter Boosma](https://ku-bioml.github.io), [Jes Frellsen](https://frellsen.org/) and [Damien Garreau](https://sites.google.com/view/damien-garreau/) [arXiv](https://arxiv.org/abs/2107.10587) [code](https://github.com/SimonBartels/pac_kernel_matrix_determinant_estimation)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SimonBartels/simonbartels.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
