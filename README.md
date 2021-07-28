@@ -4,7 +4,7 @@ Importantly, I want an answer for a dataset at hand and NOT for all datasets. Op
 
 On the practical side, I want to improve the protein-design workflow. With Bayesian optimization, I hope to reduce the number of expensive and time consuming wetlab experiments. Using results from preceding experiments, unlabelled data from related tasks and simulations, should allow to make informed choices about which protein modifications are worthwhile to explore.
 
-# Some Publications
+# Highlighted Publications
 
 **Kernel-Matrix Determinant Estimates from stopped Cholesky Decomposition** ([arXiv](https://arxiv.org/abs/2107.10587), [code](https://github.com/SimonBartels/pac_kernel_matrix_determinant_estimation))
 
