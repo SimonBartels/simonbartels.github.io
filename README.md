@@ -6,7 +6,7 @@ On the practical side, I want to improve the protein-design workflow. With Bayes
 
 # Some Publications
 
-**Kernel-Matrix Determinant Estimates from stopped Cholesky Decomposition** ([arXiv](https://arxiv.org/abs/2107.10587), [code (https://github.com/SimonBartels/pac_kernel_matrix_determinant_estimation))
+**Kernel-Matrix Determinant Estimates from stopped Cholesky Decomposition** ([arXiv](https://arxiv.org/abs/2107.10587), [code](https://github.com/SimonBartels/pac_kernel_matrix_determinant_estimation))
 
 with [Wouter Boosma](https://ku-bioml.github.io), [Jes Frellsen](https://frellsen.org/) and [Damien Garreau](https://sites.google.com/view/damien-garreau/) 
 
