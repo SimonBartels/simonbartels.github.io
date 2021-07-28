@@ -6,8 +6,16 @@ On the practical side, I want to improve the protein-design workflow. With Bayes
 
 # Some Publications
 
-**Kernel-Matrix Determinant Estimates from stopped Cholesky Decomposition** with [Wouter Boosma](https://ku-bioml.github.io), [Jes Frellsen](https://frellsen.org/) and [Damien Garreau](https://sites.google.com/view/damien-garreau/) 
+**Kernel-Matrix Determinant Estimates from stopped Cholesky Decomposition** 
+
+with [Wouter Boosma](https://ku-bioml.github.io), [Jes Frellsen](https://frellsen.org/) and [Damien Garreau](https://sites.google.com/view/damien-garreau/) 
+
 [arXiv](https://arxiv.org/abs/2107.10587) [code](https://github.com/SimonBartels/pac_kernel_matrix_determinant_estimation)
 
-**Probabilistic linear solvers: a unifying view** with [Jon Cockayne](http://www.joncockayne.com/), [Ilse Ipsen](https://ipsen.math.ncsu.edu/) and [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/)
+
+
+**Probabilistic linear solvers: a unifying view** 
+
+with [Jon Cockayne](http://www.joncockayne.com/), [Ilse Ipsen](https://ipsen.math.ncsu.edu/) and [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/)
+
 [publication](https://link.springer.com/article/10.1007/s11222-019-09897-7) [arXiv](https://arxiv.org/abs/1810.03398)
