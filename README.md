@@ -6,7 +6,7 @@ On the practical side, I want to improve the protein-design workflow. With Bayes
 
 # Highlighted Publications
 
-** Adaptive Cholesky Gaussian Processes** ([arXiv](https://arxiv.org/abs/2202.10769))
+**Adaptive Cholesky Gaussian Processes** ([arXiv](https://arxiv.org/abs/2202.10769))
 
 with [Kristoffer Stensbo-Smidt](https://prior.info/), [Pablo Moreño Munoz](https://pmorenoz.github.io/), [Wouter Boosma](https://ku-bioml.github.io), [Jes Frellsen](https://frellsen.org/) and (Søren Hauberg)[http://www2.compute.dtu.dk/~sohau/]
 
