@@ -1,3 +1,5 @@
+I am a postdoctoral researcher at the machine learning section at Copenhagen university and the cognitive systems section at the Danish technical university, advised by [Wouter Boosma](https://ku-bioml.github.io), [Jes Frellsen](https://frellsen.org/) and [Søren Hauberg](http://www2.compute.dtu.dk/~sohau/). 
+
 # Research Interests
 On the theoretical side, I am pursuing the question: how much data is necessary to obtain a decent (Gaussian process) model.
 Importantly, I want an answer for a dataset at hand and NOT for all datasets. Optimal stopping and probably-approximately-correct bounds are tools, I am interested to answer that question.
