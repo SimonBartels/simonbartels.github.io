@@ -3,7 +3,7 @@ I am a postdoctoral researcher at the machine learning section at Copenhagen uni
 # Research Interests
 protein design, Bayesian optimization, Gaussian processes, stopping strategies, concentration inequalities, quadrature of convex functions
 
-On the practical side, I want to improve the protein-design workflow. With Bayesian optimization, I hope to reduce the number of expensive and time consuming wetlab experiments. Using results from preceding experiments, unlabelled data from related tasks and simulations, should allow to make informed choices about which protein modifications are worthwhile to explore.
+On the practical side, I want to improve the protein-design workflow. With Bayesian optimization, I hope to reduce the number of expensive and time consuming wetlab experiments. Using results from preceding experiments, unlabelled data from related tasks and simulations, should allow to make informed choices about which protein modifications are worthwhile to explore. To this end, I have started developing [POLi](https://github.com/MachineLearningLifeScience/poli), a python library that allows for easier comparison of new protein optimization algorithms on different objectives.
 
 On the theoretical side, I am pursuing the question: how much data is necessary to obtain a decent (Gaussian process) model.
 Importantly, I want an answer for a dataset at hand and NOT for all datasets. Optimal stopping and probably-approximately-correct bounds are tools, I am interested to answer that question.
