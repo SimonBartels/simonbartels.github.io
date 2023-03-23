@@ -1,14 +1,17 @@
 I am a postdoctoral researcher at the machine learning section at Copenhagen university and the cognitive systems section at the Danish technical university, advised by [Wouter Boosma](https://ku-bioml.github.io), [Jes Frellsen](https://frellsen.org/) and [Søren Hauberg](http://www2.compute.dtu.dk/~sohau/). 
 
 # Research Interests
-On the theoretical side, I am pursuing the question: how much data is necessary to obtain a decent (Gaussian process) model.
-Importantly, I want an answer for a dataset at hand and NOT for all datasets. Optimal stopping and probably-approximately-correct bounds are tools, I am interested to answer that question.
+protein design, Bayesian optimization, Gaussian processes, stopping strategies, concentration inequalities, quadrature of convex functions
 
 On the practical side, I want to improve the protein-design workflow. With Bayesian optimization, I hope to reduce the number of expensive and time consuming wetlab experiments. Using results from preceding experiments, unlabelled data from related tasks and simulations, should allow to make informed choices about which protein modifications are worthwhile to explore.
 
+On the theoretical side, I am pursuing the question: how much data is necessary to obtain a decent (Gaussian process) model.
+Importantly, I want an answer for a dataset at hand and NOT for all datasets. Optimal stopping and probably-approximately-correct bounds are tools, I am interested to answer that question.
+
+
 # Highlighted Publications
 
-**Adaptive Cholesky Gaussian Processes** ([arXiv](https://arxiv.org/abs/2202.10769))
+**Adaptive Cholesky Gaussian Processes** ([arXiv](https://arxiv.org/abs/2202.10769), [code](https://github.com/SimonBartels/acgp))
 
 with [Kristoffer Stensbo-Smidt](https://prior.info/), [Pablo Moreno Muñoz](https://pmorenoz.github.io/), [Wouter Boosma](https://ku-bioml.github.io), [Jes Frellsen](https://frellsen.org/) and [Søren Hauberg](http://www2.compute.dtu.dk/~sohau/)
 
