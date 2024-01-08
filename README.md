@@ -1,4 +1,4 @@
-I am a postdoctoral researcher in the statistics and optimization group at the Paul Sabatier university in Toulouse, France, advised by [Juan Cortez](https://www.laas.fr/en/annuaire/121), [François Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/index.html) and [Pierre Neuvial](https://pneuvial.github.io/).
+I am a postdoctoral researcher in the statistics and optimization group at the Paul Sabatier university in Toulouse, France, advised by [Juan Cortes](https://www.laas.fr/en/annuaire/121), [François Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/index.html) and [Pierre Neuvial](https://pneuvial.github.io/).
 
 # Research Interests
 *protein design, Bayesian optimization, Gaussian processes, stopping strategies, concentration inequalities, quadrature of convex functions*
