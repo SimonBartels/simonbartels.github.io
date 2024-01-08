@@ -1,4 +1,4 @@
-I am a postdoctoral researcher at the machine learning section at Copenhagen university and the cognitive systems section at the Danish technical university, advised by [Wouter Boosma](https://ku-bioml.github.io), [Jes Frellsen](https://frellsen.org/) and [Søren Hauberg](http://www2.compute.dtu.dk/~sohau/). 
+I am a postdoctoral researcher in the statistics and optimization group at the Paul Sabatier university in Toulouse, France, advised by [Juan Cortez](https://www.laas.fr/en/annuaire/121), [François Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/index.html) and [Pierre Neuvial](https://pneuvial.github.io/).
 
 # Research Interests
 *protein design, Bayesian optimization, Gaussian processes, stopping strategies, concentration inequalities, quadrature of convex functions*
@@ -19,9 +19,11 @@ with [Kristoffer Stensbo-Smidt](https://prior.info/), [Pablo Moreno Muñoz](http
 
 with [Wouter Boosma](https://ku-bioml.github.io), [Jes Frellsen](https://frellsen.org/) and [Damien Garreau](https://sites.google.com/view/damien-garreau/) 
 
-
-
-
 **Probabilistic linear solvers: a unifying view** ([publication](https://link.springer.com/article/10.1007/s11222-019-09897-7), [arXiv](https://arxiv.org/abs/1810.03398))
 
-with [Jon Cockayne](http://www.joncockayne.com/), [Ilse Ipsen](https://ipsen.math.ncsu.edu/) and [Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/)
+with [Jon Cockayne](http://www.joncockayne.com/), [Ilse Ipsen](https://ipsen.math.ncsu.edu/) and [Philipp Hennig](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/)
+
+# Biography
+Before I came to Toulouse, I was a postdoctoral researcher at the machine learning section at Copenhagen university and the cognitive systems section at the Danish tehnical university, advised by [Wouter Boosma](https://ku-bioml.github.io), [Jes Frellsen](https://frellsen.org/) and [Søren Hauberg](http://www2.compute.dtu.dk/~sohau/). 
+
+I did my Ph.D. at the Max Planck Institute for Intelligent Systems in Tübingen under [Philipp Hennig](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/) on [probabilistic linear algebra](http://dx.doi.org/10.15496/publikation-56119).
