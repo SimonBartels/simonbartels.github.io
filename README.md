@@ -1,4 +1,4 @@
-I am a postdoctoral researcher in the statistics and optimization group at the Paul Sabatier university in Toulouse, France, advised by [Juan Cortes](https://www.laas.fr/en/annuaire/121), [François Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/index.html) and [Pierre Neuvial](https://pneuvial.github.io/).
+I am a postdoctoral researcher in the statistics and optimization group at the Paul Sabatier university in Toulouse, France, advised by [Juan Cortes](https://www.laas.fr/en/annuaire/121), [François Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/index.html) and [Pierre Neuvial](https://pneuvial.github.io/). Contact: firstname dot lastname at univ-tlse3.fr
 
 # Research Interests
 *protein design, Bayesian optimization, Gaussian processes, stopping strategies, concentration inequalities, quadrature of convex functions*
@@ -11,13 +11,13 @@ Importantly, I want an answer for a dataset at hand and NOT for all datasets. Op
 
 # Highlighted Publications
 
-**Adaptive Cholesky Gaussian Processes** ([arXiv](https://arxiv.org/abs/2202.10769), [code](https://github.com/SimonBartels/acgp))
-
-with [Kristoffer Stensbo-Smidt](https://prior.info/), [Pablo Moreno Muñoz](https://pmorenoz.github.io/), [Wouter Boosma](https://ku-bioml.github.io), [Jes Frellsen](https://frellsen.org/) and [Søren Hauberg](http://www2.compute.dtu.dk/~sohau/)
-
-**Kernel-Matrix Determinant Estimates from stopped Cholesky Decomposition** ([arXiv](https://arxiv.org/abs/2107.10587), [code](https://github.com/SimonBartels/pac_kernel_matrix_determinant_estimation))
+**Kernel-Matrix Determinant Estimates from stopped Cholesky Decomposition** ([publication](https://jmlr.org/papers/v24/21-0781.html), [code](https://github.com/SimonBartels/pac_kernel_matrix_determinant_estimation))
 
 with [Wouter Boosma](https://ku-bioml.github.io), [Jes Frellsen](https://frellsen.org/) and [Damien Garreau](https://sites.google.com/view/damien-garreau/) 
+
+**Adaptive Cholesky Gaussian Processes** ([publication](https://proceedings.mlr.press/v206/bartels23a.html), [code](https://github.com/SimonBartels/acgp))
+
+with [Kristoffer Stensbo-Smidt](https://prior.info/), [Pablo Moreno Muñoz](https://pmorenoz.github.io/), [Wouter Boosma](https://ku-bioml.github.io), [Jes Frellsen](https://frellsen.org/) and [Søren Hauberg](http://www2.compute.dtu.dk/~sohau/)
 
 **Probabilistic linear solvers: a unifying view** ([publication](https://link.springer.com/article/10.1007/s11222-019-09897-7), [arXiv](https://arxiv.org/abs/1810.03398))
 
